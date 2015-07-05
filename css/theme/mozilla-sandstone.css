@@ -99,7 +99,9 @@ body:after {
   font-family: "Open Sans", sans-serif;
   font-size: 30px;
   font-weight: normal;
-  letter-spacing: -0.02em;
+/* setting this kills the ligature rendering in Hasklig + FiraCode
+    letter-spacing: -0.02em;
+*/
   color: #1a1a1a; }
 
 ::selection {
