@@ -1,0 +1,89 @@
+@font-face {
+  font-family: 'ZillaSlab';
+  src:
+  url("fonts/ZillaSlab-Light.woff") format("woff"),
+  url("fonts/ZillaSlab-Light.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ZillaSlab';
+  src:
+  url("fonts/ZillaSlab-LightItalic.woff") format("woff"),
+  url("fonts/ZillaSlab-LightItalic.woff2") format("woff2");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ZillaSlab';
+  src:
+  url("fonts/ZillaSlab-Regular.woff") format("woff"),
+  url("fonts/ZillaSlab-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ZillaSlab';
+  src:
+  url("fonts/ZillaSlab-RegularItalic.woff") format("woff"),
+  url("fonts/ZillaSlab-RegularItalic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ZillaSlab';
+  src:
+  url("fonts/ZillaSlab-Medium.woff") format("woff"),
+  url("fonts/ZillaSlab-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ZillaSlab';
+  src:
+  url("fonts/ZillaSlab-MediumItalic.woff") format("woff"),
+  url("fonts/ZillaSlab-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ZillaSlab';
+  src:
+  url("fonts/ZillaSlab-Semibold.woff") format("woff"),
+  url("fonts/ZillaSlab-Semibold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ZillaSlab';
+  src:
+  url("fonts/ZillaSlab-SemiboldItalic.woff") format("woff"),
+  url("fonts/ZillaSlab-SemiboldItalic.woff2") format("woff2");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ZillaSlab';
+  src:
+  url("fonts/ZillaSlab-Bold.woff") format("woff"),
+  url("fonts/ZillaSlab-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ZillaSlab';
+  src:
+  url("fonts/ZillaSlab-BoldItalic.woff") format("woff"),
+  url("fonts/ZillaSlab-BoldItalic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+}
