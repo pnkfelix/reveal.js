@@ -13,13 +13,24 @@
  *********************************************/
 body {
   background: #111111;
-  background-image: url(img/bg-darkgrey-2.png);
+  background-image: url(img/bg-darkgrey-3.png);
   background-repeat:no-repeat;
   background-size:100% 100%;
   background-color: #111111; }
 
+body:after {
+  position:absolute;
+  top:0;
+  right:10px;
+  width:107.625px;
+  height:30.75px;
+  background:url(img/moz-logo-bw-rgb.svg);
+  content:'';
+}
+
 .reveal {
   color: #eeeeee;
+  font-family: "ZillaSlab", sans-serif;
 }
 
 /*********************************************
@@ -32,6 +43,8 @@ body {
 .reveal h5,
 .reveal h6 {
   color: #eeeeee;
+  font-family: "ZillaSlab", "Open Sans Light", "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Calibri, sans-serif;
+  letter-spacing: inherit;
 }
 
 /*********************************************
